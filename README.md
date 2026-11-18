@@ -347,5 +347,3 @@ Possible extensions to this project include:
 - [Keras Documentation](https://keras.io/)
 - [TensorFlow IMDB Dataset](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/imdb)
 - [Understanding Recurrent Neural Networks](https://www.tensorflow.org/guide/keras/working_with_rnns)
-
----
