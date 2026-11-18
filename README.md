@@ -349,5 +349,3 @@ Possible extensions to this project include:
 - [Understanding Recurrent Neural Networks](https://www.tensorflow.org/guide/keras/working_with_rnns)
 
 ---
-
-**Part of my Deep Learning learning journey:** understanding recurrent architectures and how stacked neural networks can learn from sequential data.
